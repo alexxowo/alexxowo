@@ -1,27 +1,22 @@
-# Hi there! I'm Alexandre Marquez 👋
+# Hi there, I'm Alexandre 👋
 
-* 🌍  I'm based in Punto Fijo, venezuela
-* 🖥️  See my portfolio at [Alexandre Marquez Portfolio](https://alexandremarquez.tech/)
+**Full-Stack Software Engineer | Electronic Engineer (Telecommunications)**
 
-## Full Stack Developer | Electronic Engineer
+Software Engineer with over **5 years of experience** architecting robust backend systems and crafting clean, minimal frontend interfaces. My background in Electronic Engineering provides a strong foundation in computer networks, Linux infrastructure, and hardware-software efficiency. 
 
-I am a Software Engineer with a strong background in Electronic Engineering and Telecommunications from the Universidad de Falcón. I enjoy designing intuitive user interfaces and building robust, scalable back-end systems.
+Currently, I focus on building scalable digital products—ranging from complete POS systems to mobility applications—ensuring high performance and seamless user experiences driven by modern UI/UX principles.
 
-While my primary focus has been on back-end architecture using **.NET (C#)** and **Node.js**, I am also highly skilled in modern front-end development with **React** and **Next.js**. My engineering background gives me a deep understanding of computer networks and Linux server administration (Debian/CentOS).
+### 🚀 Impact & Engineering Focus
+
+*   **Performance Optimization:** Improved system performance by **~40%** by designing asynchronous data pipelines, implementing message queues (Laravel), and leveraging serverless architectures (Azure Functions) for high-volume data.
+*   **AI-Driven Development:** Actively integrating **AI agents** into the development workflow to accelerate code generation, structure architectures, and automate repetitive engineering tasks.
+*   **Product & Technical Leadership:** Founder and technical lead focused on end-to-end SaaS development, translating complex business requirements into maintainable, atomic codebases.
+*   **Modern Infrastructure:** Advocate for clean CI/CD pipelines and atomic deployments. I manage Linux environments and orchestrate seamless deployments using **Docker, Dokploy, and Gitea Actions**.
 
 ### 🛠️ Tech Stack
 
-* **Languages:** JavaScript (ES6+), TypeScript, C#, PHP.
-* **Front-End:** React.js, Next.js, Tailwind CSS, Bootstrap.
-* **Back-End:** Node.js, .NET Core, Laravel.
-* **Databases:** PostgreSQL, SQL Server, Redis, Firebase, Prisma/TypeORM.
-* **DevOps & Cloud:** Docker, Azure, GitHub Actions, Linux Administration.
-
-### 🚀 Highlights
-
-* **Engineering Foundation:** My degree in Electronic Engineering allows me to bridge the gap between hardware constraints and software efficiency.
-* **Infrastructure:** Experienced in managing Linux environments and deploying serverless functions.
-* **Continuous Learning:** Currently exploring game development with Unity and expanding my knowledge in system architecture.
-
----
-*Open to collaborating on innovative software projects. Feel free to reach out!*
+*   **Core Languages:** C# (.NET Core), Node.js, PHP, JavaScript (ES6+), TypeScript.
+*   **Frontend:** React (Vite), Next.js, Tailwind CSS.
+*   **Backend & Frameworks:** Laravel, .NET, Node.js.
+*   **Databases:** PostgreSQL, SQL Server, Redis.
+*   **DevOps & Cloud:** Docker, Dokploy, Gitea Actions, Azure Functions, Linux Administration (Debian/Ubuntu).
