@@ -2,21 +2,31 @@
 
 **Full-Stack Software Engineer | Electronic Engineer (Telecommunications)**
 
-Software Engineer with over **5 years of experience** architecting robust backend systems and crafting clean, minimal frontend interfaces. My background in Electronic Engineering provides a strong foundation in computer networks, Linux infrastructure, and hardware-software efficiency. 
+I am a Software Engineer with over **5 years of experience** architecting robust backend systems, deploying scalable Linux infrastructure, and crafting clean, minimal frontend interfaces. My background in Electronic Engineering provides a strong foundation in computer networks, hardware-software efficiency, and low-level system design.
 
-Currently, I focus on building scalable digital products—ranging from complete POS systems to mobility applications—ensuring high performance and seamless user experiences driven by modern UI/UX principles.
+Currently, I work as a Remote Full-Stack Engineer at **Cala Projects** (Montevideo, Uruguay) and lead end-to-end SaaS development as the Co-Founder & Lead Software Engineer at **Qub** (Punto Fijo, Venezuela). 
 
-### 🚀 Impact & Engineering Focus
+### 🚀 Impact & Engineering Philosophy
 
-*   **Performance Optimization:** Improved system performance by **~40%** by designing asynchronous data pipelines, implementing message queues (Laravel), and leveraging serverless architectures (Azure Functions) for high-volume data.
-*   **AI-Driven Development:** Actively integrating **AI agents** into the development workflow to accelerate code generation, structure architectures, and automate repetitive engineering tasks.
-*   **Product & Technical Leadership:** Founder and technical lead focused on end-to-end SaaS development, translating complex business requirements into maintainable, atomic codebases.
-*   **Modern Infrastructure:** Advocate for clean CI/CD pipelines and atomic deployments. I manage Linux environments and orchestrate seamless deployments using **Docker, Dokploy, and Gitea Actions**.
+*   **System Architecture & Performance:** Proven track record of improving system performance by **~40%** through asynchronous data pipelines, message queues, and leveraging both serverless architectures and optimized monolithic frameworks (Laravel Octane).
+*   **Modern UI/UX Aesthetics:** Advocate for minimalist, highly functional interfaces. I heavily utilize dark mode, high contrast, subtle borders, and Bento Grid layouts inspired by the **Vercel Geist design system** and **Apple Human Interface Guidelines (HIG)**.
+*   **AI-Driven Development:** Actively orchestrating multi-agent development workflows using custom `AGENTS.md` context rules, MCP (Model Context Protocol) servers, and AI IDEs to accelerate code generation and architecture structuring.
+*   **Self-Hosted Infrastructure & CI/CD:** Passionate about atomic deployments and clean infrastructure. I manage Fedora/Ubuntu environments, orchestrating seamless pipelines with **Docker, Dokploy, Gitea Actions, and WireGuard**.
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-*   **Core Languages:** C# (.NET Core), Node.js, PHP, JavaScript (ES6+), TypeScript.
-*   **Frontend:** React (Vite), Next.js, Tailwind CSS.
-*   **Backend & Frameworks:** Laravel, .NET, Node.js.
-*   **Databases:** PostgreSQL, SQL Server, Redis.
-*   **DevOps & Cloud:** Docker, Dokploy, Gitea Actions, Azure Functions, Linux Administration (Debian/Ubuntu).
+*   **Languages:** PHP, C#, TypeScript, JavaScript (ES6+), Rust (Learning/Exploration).
+*   **Frontend:** React (Next.js, Vite), Astro, Tailwind CSS.
+*   **Mobile Development:** Flutter, React Native (Expo), NativeWind.
+*   **Backend & Frameworks:** Laravel (Octane), .NET Core, Node.js (Express).
+*   **Databases:** PostgreSQL, SQL Server, MySQL/MariaDB, SQLite, Redis.
+*   **DevOps & Server:** Docker, Dokploy, Gitea Actions, Azure Functions, UFW, Linux Sysadmin (Fedora/Ubuntu).
+
+### ⚙️ Terminal & Daily Workflow
+I am obsessed with developer experience and terminal productivity. My daily drive includes:
+*   **Environment:** Warp Terminal on Fedora Linux / Windows.
+*   **Tooling:** Neovim, Tmux, Starship Prompt, custom PowerShell profiles.
+*   **AI Assistants:** Google Antigravity IDE, Cursor, Claude Code.
+
+---
+📫 **Let's connect:** Always open to discussing software architecture, AI integration, or the best practices for clean UI design.
